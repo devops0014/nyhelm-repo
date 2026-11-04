@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  shiva:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-04T03:27:32.479493942Z"
+    description: A Helm chart for Kubernetes
+    digest: 3a3f2b2e717778a27c33c269878ac9fb96caf5a6481673d5e3b955bad6d41b69
+    name: shiva
+    type: application
+    urls:
+    - shiva-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-04T03:27:32.478078504Z"
